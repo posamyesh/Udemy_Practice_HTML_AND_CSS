@@ -1,0 +1,19 @@
+img{
+    border-radius: 100%;   
+}
+
+p{
+    font-size: large;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    padding: 20px;
+    background-color:azure;
+}
+body{
+    background-color: rgb(184, 219, 223);
+}
+table{
+    margin: 10px;
+    border-collapse: separate;
+}
